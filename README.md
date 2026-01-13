@@ -9,6 +9,23 @@ A web3 application built with Wagmi, React, and Vite for interacting with the Te
 - Node.js (v18 or higher recommended)
 - npm, yarn, or pnpm
 
+### Clone repo
+
+Clone Repo:
+
+```bash
+git clone https://github.com/Vickel77/wagmi-tempo.git
+```
+
+### Enter project Directory
+
+Change to project directory from terminal:
+
+```bash
+cd wagmi-tempo
+```
+
+
 ### Installation
 
 Install the project dependencies:
